@@ -1,7 +1,7 @@
 # IBM-Project-9617-1659029329
 ## Personal Expense Tracker Application
-#TEAM ID - PNT2022TMID00574
-##TEAM MEMBERS
+TEAM ID - PNT2022TMID00574
+TEAM MEMBERS
 Team Leader : SYED NISHAD 
 
 Team member 1 : SANTHOSH
